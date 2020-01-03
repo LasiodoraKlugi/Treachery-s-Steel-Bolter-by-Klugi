@@ -6,6 +6,8 @@ See Changelog: https://github.com/LasiodoraKlugi/minecraftmdkmodding/blob/master
 
 Download Versions:
 
+1.0.2: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.2.jar?raw=true
+
 1.0.3: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.3.jar?raw=true
 
 1.0.4: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.4.jar?raw=true
