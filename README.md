@@ -23,3 +23,5 @@ Download Versions:
 1.0.6: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.6.jar?raw=true
 
 1.0.7: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.7.jar?raw=true
+
+1.0.8: https://github.com/LasiodoraKlugi/Treachery-s-Steel-Bolter-by-Klugi/blob/master/modv1-1.0.8.jar?raw=true
